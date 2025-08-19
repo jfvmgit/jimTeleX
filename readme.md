@@ -61,7 +61,8 @@ Aplicar un proceso **ETL** y un **Análisis Exploratorio de Datos (EDA)** para r
 3. Subir también `TelecomX_Data.json` y `TelecomX_diccionario.md`.
 4. Ejecutar las celdas en orden para reproducir el análisis.
 
+
 ---
 
 ## 👨‍💻 Autor
-Desarrollado por *[Tu nombre]* como parte del desafío de análisis de datos en **Alura ONE**.
+Desarrollado por *jimmy vasquez* como parte del desafío de análisis de datos en **Alura ONE**.
